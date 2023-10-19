@@ -1,0 +1,11 @@
+C:\Progs\BD\Otel\bin\Debug\Otel.exe.config
+C:\Progs\BD\Otel\bin\Debug\Otel.exe
+C:\Progs\BD\Otel\bin\Debug\Otel.pdb
+C:\Progs\BD\Otel\obj\Debug\Otel.csproj.AssemblyReference.cache
+C:\Progs\BD\Otel\obj\Debug\Otel.csproj.SuggestedBindingRedirects.cache
+C:\Progs\BD\Otel\obj\Debug\Otel.Form1.resources
+C:\Progs\BD\Otel\obj\Debug\Otel.Properties.Resources.resources
+C:\Progs\BD\Otel\obj\Debug\Otel.csproj.GenerateResource.cache
+C:\Progs\BD\Otel\obj\Debug\Otel.csproj.CoreCompileInputs.cache
+C:\Progs\BD\Otel\obj\Debug\Otel.exe
+C:\Progs\BD\Otel\obj\Debug\Otel.pdb
